@@ -1,0 +1,50 @@
+{
+  "name": "SmsSender",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "lint": "eslint .",
+    "start": "react-native start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-camera-roll/camera-roll": "^7.10.2",
+    "nativewind": "^4.2.5",
+    "react": "19.2.3",
+    "react-native": "0.85.3",
+    "react-native-background-actions": "^4.1.0",
+    "react-native-call-log": "^3.0.0",
+    "react-native-nitro-image": "^0.15.1",
+    "react-native-nitro-modules": "^0.37.1",
+    "react-native-nitro-sound": "^0.2.15",
+    "react-native-reanimated": "^4.4.1",
+    "react-native-safe-area-context": "^5.6.2",
+    "react-native-view-shot": "^5.1.0",
+    "react-native-vision-camera": "^5.0.11",
+    "react-native-worklets": "^0.9.1",
+    "socket.io-client": "^4.8.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "@react-native-community/cli": "latest",
+    "@react-native-community/cli-platform-android": "latest",
+    "@react-native-community/cli-platform-ios": "latest",
+    "@react-native/babel-preset": "0.85.3",
+    "@react-native/eslint-config": "0.85.3",
+    "@react-native/jest-preset": "0.85.3",
+    "@react-native/metro-config": "0.85.3",
+    "@react-native/typescript-config": "0.85.3",
+    "eslint": "^9.30.0",
+    "jest": "^30.0.0",
+    "prettier": "^3.5.0",
+    "prettier-plugin-tailwindcss": "^0.5.14",
+    "react-test-renderer": "19.2.3",
+    "tailwindcss": "^3.4.17"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

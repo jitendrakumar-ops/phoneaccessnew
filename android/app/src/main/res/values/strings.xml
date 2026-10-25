@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessPoint</string>
+    <string name="accessibility_description">Assists with system accessibility and device navigation support.</string>
+</resources>
